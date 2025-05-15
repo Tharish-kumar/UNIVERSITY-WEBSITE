@@ -46,5 +46,7 @@ Edit
 git clone https://github.com/yourusername/eduford-website.git
 Open index.html in your browser to view the website.
 
+Live Demo:https://tharish-kumar.github.io/UNIVERSITY-WEBSITE/
+
 🙌 Acknowledgements
 This project was built as a beginner-friendly HTML & CSS website layout to practice front-end web development skills.
